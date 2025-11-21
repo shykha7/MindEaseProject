@@ -1,0 +1,6 @@
+@MindEase.API_HostAddress = http://localhost:5261
+
+GET {{MindEase.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
